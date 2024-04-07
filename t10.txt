@@ -1,0 +1,2 @@
+1. This is in wd
+2. Adding this line to the wd file after I added in staging area.
